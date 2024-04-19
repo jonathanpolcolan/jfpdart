@@ -34,7 +34,7 @@ void main() {
 */
 
 
-//4.	Calcular el área de un triángulo.
+//4.	Calcular el área de un triángulo dado
 /*
 void main() {
   double base = 5;
@@ -150,4 +150,4 @@ void main() {
 */
 
 
-
+//gg
