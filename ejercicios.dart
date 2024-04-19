@@ -10,7 +10,7 @@
 */
 
 
-//2.	Calcular la distancia recorrida por un carro.
+//2.	Calcular la distancia recorrida por un carro en km
 /*
 void main() {
   int posicion1 = 3;
